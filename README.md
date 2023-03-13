@@ -1,5 +1,10 @@
 # Hello world!
-<p>my name is Thi (pronounced exactly like Tea &#127861;)</p>
+<br/>
+<p>My name is Thi (pronounced exactly like Tea &#127861;). I&#39;m a passionate UX/UI designer who create layouts to enhance human interactions.</p>
+
+# Tools and Technologies
+
+
 
 
 
