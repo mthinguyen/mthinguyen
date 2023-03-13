@@ -1,6 +1,7 @@
 # Hello!
 <br/>
 <p>My name is Thi (pronounced exactly like Tea &#127861;). I&#39;m a passionate UX/UI designer who create layouts to enhance human interactions.</p>
+<img alt="Cat and Rainbow Gif" src="https://www.printmag.com/design-news/someone-just-bought-a-gif-for-half-a-million-dollars/" />
 
 ## Design Tools &#128397;
 <br/>
