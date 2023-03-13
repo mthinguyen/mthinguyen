@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Thi (pronounced exactly like Tea &#127861;)
 
 <!--
 **mthinguyen/mthinguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
