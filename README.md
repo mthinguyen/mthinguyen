@@ -1,4 +1,4 @@
-# Hello!
+# Hellooo!&#127803;&#127799; 
 <br/>
 <p>My name is Thi (pronounced exactly like Tea &#127861;). I&#39;m a passionate UX/UI designer, visual designer who create layouts to enhance human interactions. I started my journey as a designer at BCIT and I wish to learn more everyday.</p>
 <img alt="Cat and Rainbow Gif" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" />
