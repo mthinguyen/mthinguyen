@@ -31,18 +31,18 @@
  </p>
 
 ## I'm intereste in learning 
+<p align="left">
 <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-
-
+ </p>
 
 ## Connect at
+<p align="left">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
 <img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+ </p>
 
-
-<img alt="Github statistic" src="https://github-readme-stats.vercel.app/api/top-langs/?username={mthinguyen}" />
+<!-- <img alt="Github statistic" src="https://github-readme-stats.vercel.app/api/top-langs/?username={mthinguyen}" /> -->
 
  
 
