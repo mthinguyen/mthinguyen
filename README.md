@@ -30,7 +30,7 @@
 <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
  </p>
 
-## I'm intereste in learning 
+## I'm interested in learning 
 <p align="left">
 <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
  </p>
