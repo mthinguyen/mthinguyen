@@ -47,7 +47,9 @@
  
  ## Visit my Portfolio
 <br/>
-<a href="https://thinguyen.ca/">Here!</a>
+<p>My Site:<a href="https://thi-nguyen.vercel.app/">Here!</a></p>
+<p>My WordPress Site:<a href="https://thinguyen.ca/">Here!</a></p>
+
 
 <!-- <img alt="Github statistic" src="https://github-readme-stats.vercel.app/api/top-langs/?username={mthinguyen}" /> -->
 
