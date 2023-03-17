@@ -47,7 +47,7 @@
  
  ## Visit my Portfolio
 <br/>
-<p>My Site: <a href="https://thi-nguyen.vercel.app/">Here!</a></p>
+<p>My Site: <a href="https://thinguyen.vercel.app/">Here!</a></p>
 <p>My WordPress Site: <a href="https://thinguyen.ca/">Here!</a></p>
 
 
